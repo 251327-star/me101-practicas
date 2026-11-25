@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mi vivienda (aprox. barrio Ccayahua)",
+        "distrito": "Pomacanchi / Cusco",
+        "tipo": "lugar de referencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5718,
+          -14.0385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)",
+        "distrito": "Pomacanchi / Cusco",
+        "tipo": "lugar de referencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9589345,
+          -13.521351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Armas de Pomacanchi",
+        "distrito": "Pomacanchi / Cusco",
+        "tipo": "lugar de referencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57144,
+          -14.03526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Laguna Pomacanchi",
+        "distrito": "Pomacanchi / Cusco",
+        "tipo": "lugar de referencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52809,
+          -14.02059
+        ]
+      }
+    }
+  ]
+}
